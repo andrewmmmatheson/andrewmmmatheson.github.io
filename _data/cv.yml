@@ -18,29 +18,39 @@ cv:
       - institution: New York University
         location: New York, NY, USA
         area: Neuroscience and Physiology
-        degree: PhD
+        studyType: PhD
         start_date: 2015
         end_date: 2021
+        highlights:
+          - "Doctoral research in neuroethology"
 
       - institution: McGill University
         location: Montreal, Qc, Canada
         area: Computer Science and Biology
-        degree: BSc
+        studyType: BSc
         start_date: 2011
         end_date: 2015
+        highlights:
+          - "Interdisciplinary focus on biology and computational methods"
 
     Experience:
-      - institution: Tosches Lab, Department of Biological Sciences, Columbia University
+      - company: Tosches Lab, Department of Biological Sciences, Columbia University
         position: Postdoctoral Research Scientist
+        location: New York, NY
         start_date: 2021
-        end_date: Present
+        end_date: present
         summary: >
           Investigating neural mechanisms of environmental plasticity and sensory processing
           in the Iberian ribbed newt using electrophysiology and computational approaches.
+        highlights:
+          - "Neural circuit plasticity research"
+          - "Electrophysiology techniques"
+          - "Computational neuroscience"
 
     Publications:
       - title: Iberian ribbed newts
-        authors: "Matheson AMM, Chua NJ, Tosches MA"
+        authors:
+          - Albert Einstein
         publisher: Current Biology
         releaseDate: 2025
         url: https://doi.org/10.1016/j.cub.2024.11.062
@@ -48,7 +58,8 @@ cv:
           Environmental plasticity in neural circuits of the Iberian ribbed newt.
 
       - title: A neural circuit for wind-guided olfactory navigation
-        authors: "Matheson AMM, Lanz AJ, Currier TA, Licata AM, Syed MH, Nagel KI"
+        authors:
+          - Albert Einstein
         publisher: Nature Communications
         releaseDate: 2022
         url: https://doi.org/10.1038/s41467-022-32247-7
@@ -56,7 +67,8 @@ cv:
           Identification of neural circuits underlying wind-guided olfactory navigation in Drosophila.
 
       - title: A population of central complex neurons promoting airflow-guided orientation in Drosophila
-        authors: "Currier TA, Matheson AMM, Nagel KI"
+        authors:
+          - Albert Einstein
         publisher: eLife
         releaseDate: 2020
         url: https://doi.org/10.7554/eLife.61510
@@ -64,7 +76,8 @@ cv:
           Central complex neurons that encode wind direction and promote orientation behavior.
 
       - title: Central neurons encoding wind direction in Drosophila
-        authors: "Suver MP, Matheson AMM, Sarkar S, Damiata M, Schoppik D, Nagel KI"
+        authors:
+          - Albert Einstein
         publisher: Neuron
         releaseDate: 2019
         url: https://doi.org/10.1016/j.neuron.2019.03.012
@@ -72,7 +85,8 @@ cv:
           Neural mechanisms of wind-direction encoding in the Drosophila brain.
 
       - title: Cortical control of vocal interaction in neotropical singing mice
-        authors: "Okobi DE*, Banerjee A*, Matheson AMM, Phelps SM, Long MA"
+        authors:
+          - Albert Einstein
         publisher: Science
         releaseDate: 2019
         url: https://doi.org/10.1126/science.aau9480
@@ -80,7 +94,8 @@ cv:
           Cortical mechanisms controlling vocal interactions in singing mice.
 
       - title: Relationship between the sequencing and timing of vocal motor elements in birdsong
-        authors: "Matheson AMM, Sakata JT"
+        authors:
+          - Albert Einstein
         publisher: Plos One
         releaseDate: 2015
         url: https://doi.org/10.1371/journal.pone.0143203
@@ -89,12 +104,16 @@ cv:
 
     Awards:
       - title: Doupe Fellowship
+        authors:
+          - "McKnight Endowment Fund for Neuroscience"
         date: 2026
         awarder: McKnight Endowment Fund for Neuroscience
         summary: >
           Recognition for contributions to neuroethology research.
 
       - title: Young Investigator Award
+        authors:
+          - "International Society for Neuroethology"
         date: 2026
         awarder: International Society for Neuroethology
         summary: >
