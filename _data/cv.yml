@@ -3,7 +3,7 @@ cv:
   label: Postdoctoral Research Scientist
   email: am5835@columbia.edu
   location: New York, NY
-  image: ""
+  image: /assets/img/prof_pic.jpg
   summary: >
     Neuroethologist studying environmental plasticity in the Iberian ribbed newt.
 
@@ -33,6 +33,10 @@ cv:
       - institution: Tosches Lab, Department of Biological Sciences, Columbia University
         position: Postdoctoral Research Scientist
         start_date: 2021
+        end_date: Present
+        summary: >
+          Investigating neural mechanisms of environmental plasticity and sensory processing
+          in the Iberian ribbed newt using electrophysiology and computational approaches.
 
     Publications:
       - title: Iberian ribbed newts
@@ -40,42 +44,58 @@ cv:
         publisher: Current Biology
         releaseDate: 2025
         url: https://doi.org/10.1016/j.cub.2024.11.062
+        summary: >
+          Environmental plasticity in neural circuits of the Iberian ribbed newt.
 
       - title: A neural circuit for wind-guided olfactory navigation
         authors: "Matheson AMM, Lanz AJ, Currier TA, Licata AM, Syed MH, Nagel KI"
         publisher: Nature Communications
         releaseDate: 2022
         url: https://doi.org/10.1038/s41467-022-32247-7
+        summary: >
+          Identification of neural circuits underlying wind-guided olfactory navigation in Drosophila.
 
       - title: A population of central complex neurons promoting airflow-guided orientation in Drosophila
         authors: "Currier TA, Matheson AMM, Nagel KI"
         publisher: eLife
         releaseDate: 2020
         url: https://doi.org/10.7554/eLife.61510
+        summary: >
+          Central complex neurons that encode wind direction and promote orientation behavior.
 
       - title: Central neurons encoding wind direction in Drosophila
         authors: "Suver MP, Matheson AMM, Sarkar S, Damiata M, Schoppik D, Nagel KI"
         publisher: Neuron
         releaseDate: 2019
         url: https://doi.org/10.1016/j.neuron.2019.03.012
+        summary: >
+          Neural mechanisms of wind-direction encoding in the Drosophila brain.
 
       - title: Cortical control of vocal interaction in neotropical singing mice
         authors: "Okobi DE*, Banerjee A*, Matheson AMM, Phelps SM, Long MA"
         publisher: Science
         releaseDate: 2019
         url: https://doi.org/10.1126/science.aau9480
+        summary: >
+          Cortical mechanisms controlling vocal interactions in singing mice.
 
       - title: Relationship between the sequencing and timing of vocal motor elements in birdsong
         authors: "Matheson AMM, Sakata JT"
         publisher: Plos One
         releaseDate: 2015
         url: https://doi.org/10.1371/journal.pone.0143203
+        summary: >
+          Analysis of vocal motor sequencing and timing in birdsong production.
 
     Awards:
       - title: Doupe Fellowship
         date: 2026
         awarder: McKnight Endowment Fund for Neuroscience
+        summary: >
+          Recognition for contributions to neuroethology research.
 
       - title: Young Investigator Award
         date: 2026
         awarder: International Society for Neuroethology
+        summary: >
+          Award recognizing early-career achievements in neuroethology.
