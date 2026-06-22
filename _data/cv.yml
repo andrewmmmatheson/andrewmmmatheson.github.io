@@ -18,18 +18,16 @@ cv:
       - institution: New York University
         location: New York, NY, USA
         area: Neuroscience and Physiology
-        Degree: PhD
+        degree: PhD
         start_date: 2015
         end_date: 2021
-
 
       - institution: McGill University
         location: Montreal, Qc, Canada
         area: Computer Science and Biology
-        Degree: BSc
+        degree: BSc
         start_date: 2011
         end_date: 2015
-        
 
     Experience:
       - institution: Tosches Lab, Department of Biological Sciences, Columbia University
@@ -42,57 +40,42 @@ cv:
         publisher: Current Biology
         releaseDate: 2025
         url: https://doi.org/10.1016/j.cub.2024.11.062
-        summary:
 
       - title: A neural circuit for wind-guided olfactory navigation
         authors: "Matheson AMM, Lanz AJ, Currier TA, Licata AM, Syed MH, Nagel KI"
         publisher: Nature Communications
         releaseDate: 2022
         url: https://doi.org/10.1038/s41467-022-32247-7
-        summary: 
-        
-      - title:  A population of central complex neurons promoting airflow-guided orientation in Drosophila
+
+      - title: A population of central complex neurons promoting airflow-guided orientation in Drosophila
         authors: "Currier TA, Matheson AMM, Nagel KI"
         publisher: eLife
         releaseDate: 2020
         url: https://doi.org/10.7554/eLife.61510
-        summary: 
 
-      - title:  Central neurons encoding wind direction in Drosophila
+      - title: Central neurons encoding wind direction in Drosophila
         authors: "Suver MP, Matheson AMM, Sarkar S, Damiata M, Schoppik D, Nagel KI"
         publisher: Neuron
         releaseDate: 2019
         url: https://doi.org/10.1016/j.neuron.2019.03.012
-        summary: 
-        
-      - title:  Cortical control of vocal interaction in neotropical singing mice
+
+      - title: Cortical control of vocal interaction in neotropical singing mice
         authors: "Okobi DE*, Banerjee A*, Matheson AMM, Phelps SM, Long MA"
         publisher: Science
         releaseDate: 2019
         url: https://doi.org/10.1126/science.aau9480
-        summary: 
 
-      - title:  Relationship between the sequencing and timing of vocal motor elements in birdsong
+      - title: Relationship between the sequencing and timing of vocal motor elements in birdsong
         authors: "Matheson AMM, Sakata JT"
         publisher: Plos One
         releaseDate: 2015
-        url: https://doi.org/10.1126/science.aau9480
-        summary: https://doi.org/10.1371/journal.pone.0143203
-
+        url: https://doi.org/10.1371/journal.pone.0143203
 
     Awards:
       - title: Doupe Fellowship
-        authors:
-          - ""
         date: 2026
         awarder: McKnight Endowment Fund for Neuroscience
-        url:
-        summary: 
 
       - title: Young Investigator Award
-        authors:
-          - ""
         date: 2026
         awarder: International Society for Neuroethology
-        summary: 
-
