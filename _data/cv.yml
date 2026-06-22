@@ -50,7 +50,9 @@ cv:
     Publications:
       - title: Iberian ribbed newts
         authors:
-          - Albert Einstein
+          - Matheson AMM
+          - Chua NJ
+          - Tosches MA
         publisher: Current Biology
         releaseDate: 2025
         url: https://doi.org/10.1016/j.cub.2024.11.062
@@ -59,7 +61,12 @@ cv:
 
       - title: A neural circuit for wind-guided olfactory navigation
         authors:
-          - Albert Einstein
+          - Matheson AMM
+          - Lanz AJ
+          - Currier TA
+          - Licata AM
+          - Syed MH
+          - Nagel KI
         publisher: Nature Communications
         releaseDate: 2022
         url: https://doi.org/10.1038/s41467-022-32247-7
@@ -68,7 +75,9 @@ cv:
 
       - title: A population of central complex neurons promoting airflow-guided orientation in Drosophila
         authors:
-          - Albert Einstein
+          - Currier TA
+          - Matheson AMM
+          - Nagel KI
         publisher: eLife
         releaseDate: 2020
         url: https://doi.org/10.7554/eLife.61510
@@ -77,7 +86,12 @@ cv:
 
       - title: Central neurons encoding wind direction in Drosophila
         authors:
-          - Albert Einstein
+          - Suver MP
+          - Matheson AMM
+          - Sarkar S
+          - Damiata M
+          - Schoppik D
+          - Nagel KI
         publisher: Neuron
         releaseDate: 2019
         url: https://doi.org/10.1016/j.neuron.2019.03.012
@@ -86,7 +100,11 @@ cv:
 
       - title: Cortical control of vocal interaction in neotropical singing mice
         authors:
-          - Albert Einstein
+          - "Okobi DE*"
+          - "Banerjee A*"
+          - Matheson AMM
+          - Phelps SM
+          - Long MA
         publisher: Science
         releaseDate: 2019
         url: https://doi.org/10.1126/science.aau9480
@@ -95,7 +113,8 @@ cv:
 
       - title: Relationship between the sequencing and timing of vocal motor elements in birdsong
         authors:
-          - Albert Einstein
+          - Matheson AMM
+          - Sakata JT
         publisher: Plos One
         releaseDate: 2015
         url: https://doi.org/10.1371/journal.pone.0143203
