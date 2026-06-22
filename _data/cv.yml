@@ -4,11 +4,21 @@ cv:
   email: am5835@columbia.edu
   location: New York, NY
   image: ""
-  summary: I am a neuroethologist interested in how animal's adapt their nervous system to extremely different environments.
+  summary: I am a neuroethologist interested in how animals achieve similar behaviours for survival despite inhabiting
+vastly different habitats and possessing distinct neural circuit architectures. My current research focuses on
+the Iberian ribbed newt (Pleurodeles waltl), a remarkably plastic species that transitions between aquatic and
+terrestrial living as an adult — two environments with profoundly different sensory and physical properties. I
+aim to understand the extent to which nervous systems can be flexible in this species and the morphological,
+behavioural and genetic modifications newts use to adapt between environments. I plan to leverage the
+newt’s unique plasticity, regenerative capacity and its key evolutionary position as a sister group to all other
+terrestrial vertebrates to understand the flexibility of the nervous system over evolution. My long term goal is
+to develop the newt into a full-fledged model for neuroethology and comparative systems neuroscience. 
 
   social_networks:
     - network: X
-      username: andrewMMmatheson
+      username: AMMmatheson
+    - network: Bluesky
+      username: andrewmatheson.bsky.social
 
   sections:
     Education:
@@ -31,95 +41,73 @@ cv:
         
 
     Experience:
-      - institution: Department of Biological Sciences, Columbia University
+      - institution: Tosches Lab, Department of Biological Sciences, Columbia University
         position: Postdoctoral Research Scientist
         start_date: 2021
-      
-
-    Awards:
-      - title:
-        authors:
-          - ""
-        date: 
-        awarder: 
-        url:
-        summary: 
-
-      - title: 
-        authors:
-          - ""
-        date: 
-        awarder: 
-        summary: 
 
     Publications:
-      - title: 
-        authors:
+      - title: Iberian ribbed newts
+        authors: Matheson AMM, Chua NJ, Tosches MA
           - 
-        publisher: 
-        releaseDate: 
-        url:
+        publisher: Current Biology
+        releaseDate: 2025
+        url: https://doi.org/10.1016/j.cub.2024.11.062
         summary:
 
-      - title: 
-        authors:
+      - title: A neural circuit for wind-guided olfactory navigation
+        authors: Matheson AMM, Lanz AJ, Currier TA, Licata AM, Syed MH, Nagel KI
           - 
-        publisher: 
-        releaseDate: 
-        url: 
+        publisher: Nature Communications
+        releaseDate: 2022
+        url: https://doi.org/10.1038/s41467-022-32247-7
         summary: 
         
-      - title: 
-        authors:
+      - title:  A population of central complex neurons promoting airflow-guided orientation in Drosophila
+        authors: Currier TA, Matheson AMM, Nagel KI
           - 
-        publisher: 
-        releaseDate: 
-        url: 
+        publisher: eLife
+        releaseDate: 2020
+        url: https://doi.org/10.7554/eLife.61510
+        summary: 
+
+        - title:  Central neurons encoding wind direction in Drosophila
+        authors: Suver MP, Matheson AMM, Sarkar S, Damiata M, Schoppik D, Nagel KI
+          - 
+        publisher: Neuron
+        releaseDate: 2019
+        url: https://doi.org/10.1016/j.neuron.2019.03.012
         summary: 
         
-      - name: 
-        level:
-        icon: 
-        keywords:
-
-    Languages:
-      - name: 
+         - title:  Cortical control of vocal interaction in neotropical singing mice
+        authors: Okobi DE*, Banerjee A*, Matheson AMM, Phelps SM, Long MA
+          - 
+        publisher: Science
+        releaseDate: 2019
+        url: https://doi.org/10.1126/science.aau9480
         summary: 
 
-      - name: English
-        summary: "Fluent"
+         - title:  Relationship between the sequencing and timing of vocal motor elements in birdsong
+        authors: Matheson AMM, Sakata JT
+          - 
+        publisher: Plos One
+        releaseDate: 2015
+        url: https://doi.org/10.1126/science.aau9480
+        summary: https://doi.org/10.1371/journal.pone.0143203
 
-    Interests:
-      - name:
-        icon: 
-        keywords: 
 
-    Certificates:
-      - name: 
-        date: 
-        issuer:
-        icon: 
-
-      - name: 
-        date: 
-        issuer: 
-        icon: 
-
-      - name: 
-        date: 
-        issuer: 
-        icon: 
-
-    Projects:
-      - name: 
+    Awards:
+      - title: Doupe Fellowship
+        authors:
+          - ""
+        date: 2026
+        awarder: McKnight Endowment Fund for Neuroscience
+        url:
         summary: 
-        highlights:
-          - 
-          - 
-        start_date: 
-        end_date: 
 
-    References:
-      - name: 
-        icon: 
-        reference: 
+      - title: Young Investigator Award
+        authors:
+          - ""
+        date: 2026
+        awarder: International Society for Neuroethology
+        summary: 
+
