@@ -29,7 +29,7 @@ latest_posts:
 
 I am a neuroethologist interested in how animals achieve similar behaviours for survival despite inhabiting
 vastly different habitats and possessing distinct neural circuit architectures. My current research in Maria Tosches' lab at Columbia University focuses on
-the Iberian ribbed newt (Pleurodeles waltl), a remarkably plastic species that transitions between aquatic and
+the Iberian ribbed newt (_Pleurodeles waltl_), a remarkably plastic species that transitions between aquatic and
 terrestrial living as an adult — two environments with profoundly different sensory and physical properties. I
 aim to understand the extent to which nervous systems can be flexible in this species and the morphological,
 behavioural and genetic modifications newts use to adapt between environments. I plan to leverage the
