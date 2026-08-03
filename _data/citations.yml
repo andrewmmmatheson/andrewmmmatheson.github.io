@@ -1,18 +1,22 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   Tinx-ioAAAAJ:9yKSN-GCB0IC:
     citations: 184
     title: Motor cortical control of vocal interaction in neotropical singing mice
     year: '2019'
   Tinx-ioAAAAJ:IjCSPb-OGe4C:
-    citations: 76
+    citations: 74
     title: Encoding and control of orientation to airflow by a set of Drosophila fan-shaped body neurons
     year: '2020'
   Tinx-ioAAAAJ:LkGwnXOMwfcC:
-    citations: 17
+    citations: 18
     title: 'A neural circuit for wind-guided olfactory navigation. Nat Commun 13: 4613'
     year: '2022'
+  Tinx-ioAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Cell-type Plasticity Supports Behavioral Adaptations at the Water-to-Land Interface
+    year: '2026'
   Tinx-ioAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: The Neural Circuits that Support Wind-Guided Olfactory Navigation
@@ -34,7 +38,7 @@ papers:
     title: Relationship between the sequencing and timing of vocal motor elements in birdsong
     year: '2015'
   Tinx-ioAAAAJ:roLk4NBRz8UC:
-    citations: 8
+    citations: 9
     title: Iberian ribbed newts
     year: '2025'
   Tinx-ioAAAAJ:ufrVoPGSRksC:
@@ -42,6 +46,6 @@ papers:
     title: 'Addendum: A neural circuit for wind-guided olfactory navigation'
     year: '2024'
   Tinx-ioAAAAJ:zYLM7Y9cAGgC:
-    citations: 103
+    citations: 105
     title: Encoding of wind direction by central neurons in Drosophila
     year: '2019'
